@@ -14,11 +14,11 @@ Total Quantity: 2008
 Average Order Value (AOV): 44K
 
 ## 📈 Key Insights:
-Maharashtra emerges as the highest revenue-generating state, indicating strong regional market demand.
-The Clothing category leads in sales volume, making it the primary driver of overall order quantity.
-January records the peak profit among all months, reflecting strong performance in the early quarter.
-Cash on Delivery (COD) is the most preferred payment method, highlighting customer trust and convenience in this mode.
-Printers contribute the highest profit among all sub-categories, identifying them as the most profitable product segment.
+* Maharashtra emerges as the highest revenue-generating state, indicating strong regional market demand.
+* The Clothing category leads in sales volume, making it the primary driver of overall order quantity.
+* January records the peak profit among all months, reflecting strong performance in the early quarter.
+* Cash on Delivery (COD) is the most preferred payment method, highlighting customer trust and convenience in this mode.
+* Printers contribute the highest profit among all sub-categories, identifying them as the most profitable product segment.
 
 ## 🚀 How to Use:
 Download the .pbix file.
