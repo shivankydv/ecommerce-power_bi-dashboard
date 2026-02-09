@@ -1,4 +1,4 @@
-## 📊 Madhav Ecommerce Sales Dashboard (Power BI)
+## 📊 Ecommerce Sales Dashboard (Power BI)
 This Power BI dashboard analyzes ecommerce sales data to understand performance across states, categories, customers, and payment modes.
 
 ## 🧰 Tools Used
