@@ -22,5 +22,5 @@ Average Order Value (AOV): 44K
 
 ## 🚀 How to Use
 Download the .pbix file.
-Open it in Power BI Desktop.
+Open it in Power BI Desktop. 
 Explore insights using slicers and filters.
